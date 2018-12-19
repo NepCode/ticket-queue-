@@ -23,6 +23,6 @@ server.listen(port, (err) => {
 
     if (err) throw new Error(err);
 
-    console.log(`Servidor corriendo en puerto ${ port } y path ${publicPath}`);
+    console.log(`server running on port ${ port }`);
 
 });
