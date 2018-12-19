@@ -1,6 +1,6 @@
 # Release Notes:
 
-This an small express server ready to run and serve public folder
+This an small app of queue ticketing ready to run and serve public folder
 
 remember install dependencies
 ```
